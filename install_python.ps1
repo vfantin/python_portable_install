@@ -6,6 +6,5 @@
 python --version
 pip --version
 python.exe -m pip install --upgrade pip
-#Expand-Archive .\drm_20230525190450.zip -DestinationPath .
 pip install -r .\requirements.txt
 deactivate
