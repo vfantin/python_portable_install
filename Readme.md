@@ -23,3 +23,7 @@ Get-ChildItem -Path C:\Users\fantv\AppData\Local\Programs\python_install\python3
 ## Uninstall !  
 
 <img src=".\.md\Install_5.png" alt="Third step" style="height: 406px; width:653px;"/>
+
+To git
+git add -A; git commit -m 'Cleanup !'  
+git push -u --force origin master  
